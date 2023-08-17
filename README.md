@@ -2,8 +2,7 @@
 
 Textify is a simple yet powerful text editor built using React. It allows users to perform various text manipulation tasks, such as capitalizing text, removing spaces, and counting words. Additionally, Textify features both dark and light modes for a comfortable user experience in different lighting environments.
 
-![Textify Screenshot](![portfolio-img2](https://github.com/Alina-Saqib/React-TextEditor/assets/130975912/e45124a3-1eec-4876-bfc4-3553b0cece04)
-)
+
 
 ## Features
 
